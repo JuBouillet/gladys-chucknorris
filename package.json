@@ -1,0 +1,12 @@
+{
+  "name": "Chuck Norris facts",
+  "version": "1.0.0",
+  "description": "Gladys hooks to display Chuck Norris facts",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
