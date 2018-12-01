@@ -1,6 +1,6 @@
 module.exports = function (sails) {
-	var exec = require('./lib/exec.js');
+	var cntest = require('./lib/exec.js');
 	return {
-		exec: exec,
+		cntest: cntest,
 	};
 };
