@@ -1,4 +1,7 @@
-var cntest = require('./lib/facts');
+var facts = require('./lib/facts.js');
+var command = require('./lib/facts.command.js');
+var install = require('./lib/install.js');
+var uninstall = require('./lib/uninstall.js');
 
 module.exports = function (sails) {
 	return {
