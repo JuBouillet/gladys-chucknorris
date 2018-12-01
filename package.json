@@ -1,5 +1,5 @@
 {
-  "name": "Chuck Norris facts",
+  "name": "cnfacts",
   "version": "1.0.0",
   "description": "Gladys hooks to display Chuck Norris facts",
   "main": "index.js",

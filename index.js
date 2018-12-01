@@ -1,6 +1,11 @@
+var cntest = require('./lib/facts');
+
 module.exports = function (sails) {
-	var cntest = require('./lib/exec.js');
 	return {
-		command: cntest,
+		facts: facts,
+		// reboot: reboot,
+		command: command,
+		install: install,
+		uninstall: uninstall
 	};
 };
