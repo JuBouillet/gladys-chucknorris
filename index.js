@@ -6,9 +6,8 @@ module.exports = function (sails) {
 	console.log("Test CNFACTS");
 	return {
 		facts: facts,
-		// reboot: reboot,
 		command: command,
-		setup: install,
+		install: install,
 		uninstall: uninstall
 	};
 };
