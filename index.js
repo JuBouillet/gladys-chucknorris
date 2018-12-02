@@ -8,7 +8,7 @@ module.exports = function (sails) {
 		facts: facts,
 		// reboot: reboot,
 		command: command,
-		install: install,
+		setup: install,
 		uninstall: uninstall
 	};
 };
