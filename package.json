@@ -9,7 +9,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.3"
-  }
+  },
+  "keywords": [
+    "Gladys",
+    "Chuck",
+    "Norris",
+    "Chuck Norris",
+    "joke",
+    "Blague"
+],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuBouillet/gladys-chucknorris.git"
+  },
+  "author": "Julien Bouillet",
+  "bugs": {
+    "url": "https://github.com/Lyreo/gladys-chucknorris/issues"
+  },
+  "homepage": "https://github.com/Lyreo/gladys-chucknorris#readme"
 }
