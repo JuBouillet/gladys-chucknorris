@@ -6,7 +6,7 @@ module.exports = function (sails) {
 	return {
 		facts: facts,
 		command: command,
-		install: install,
+		setup: install,
 		uninstall: uninstall
 	};
 };
